@@ -1,1 +1,2 @@
-#  create FIFO-code in vhdl langauge
+#   FIFO-code 
+create FIFO module by using vhdl language
